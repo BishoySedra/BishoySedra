@@ -1,5 +1,7 @@
 ## <div align="center"> A Back-End Developer and CS Student at ASU - Egypt</div>
 
+![](https://komarev.com/ghpvc/?username=BishoySedra)
+
 - 🌱 I’m currently learning **`Web Sockets`**
 - ❓ Ask me about anything related to **`Back-End Development`**
 
@@ -46,3 +48,4 @@
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
   
 </div>
+
