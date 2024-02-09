@@ -25,8 +25,6 @@
 
 ## My Stats
 
-<br/>
-
 <div>
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=BishoySedra&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=BishoySedra&theme=radical&hide_border=true" />
@@ -38,8 +36,6 @@
 <img width="49.5%" align="top" src="https://github-profile-trophy.vercel.app/?username=BishoySedra&theme=radical&row=2&column=3&no-frame=true&no-bg=false&margin-w=5&margin-h=5" />
 <img width="49.5%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishoySedra&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=jupyter%20notebook" />  
  </div>
- 
- <br>
 
 ## Random Dev Quote
 
