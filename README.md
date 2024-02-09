@@ -1,4 +1,4 @@
-## <div align="center"> A Back-End Developer and CS Student at ASU - Egypt</div>
+## <div align="center"> Back-End Developer and CS Student at ASU - Egypt</div>
 
 ![](https://komarev.com/ghpvc/?username=BishoySedra)
 
