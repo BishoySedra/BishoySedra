@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=BishoySedra)
 
-- 🌱 I’m currently learning **`Web Sockets`**
+- 🌱 I’m currently learning **`Nest.js`**
 - ❓ Ask me about anything related to **`Back-End Development`**
 
 ## Connect with me
