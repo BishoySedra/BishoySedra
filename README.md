@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=BishoySedra)
 
-- 🌱 I’m currently learning **`Nest.js`**
-- ❓ Ask me about anything related to **`Back-End Development`**
+[- 🌱 I’m currently learning **`Nest.js`**
+- ❓ Ask me about anything related to **`Back-End Development`**](url)
 
 ## Connect with me
 
