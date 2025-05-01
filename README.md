@@ -1,43 +1,46 @@
-## <div align="center"> Node.js Back-End Developer and Senior Computer Science Student at FCIS - ASU </div>
+<h1 align="center">Hi 👋, I'm Bishoy Sedra</h1>
+<h3 align="center">An Egyptian Software Engineer interested in Backend Development</h3>
 
-![](https://komarev.com/ghpvc/?username=BishoySedra)
+- 🌱 I’m currently learning **DevOps**
+- 💬 Ask me about **Node.js, Express.js, NestJS, MongoDB, PostgreSQL**
+- 📫 How to reach me **bishoysedraa@gmail.com**
+- 📄 Go through my CV: **[Drive Link](https://drive.google.com/file/d/1FEJ2JVlT9SQe_evCXJhTqYphOJ2wuvLy/view?usp=sharing)**
 
-<!--
-- 🌱 I’m currently learning **`Nest.js`**
-- ❓ Ask me about anything related to **`Back-End Development`**
--->
+---
 
 ## Connect with me
 
-<div align="center">
+<div align="left">
   
-<a href="mailto:bishosedra0@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23F45.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<a href="mailto:bishoysedraa@gmail.com" target="_blank">
+<img align="center" src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" />
 </a>
 
 <a href="https://github.com/BishoySedra" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img align="center" src="https://img.icons8.com/fluency/48/github.png" alt="Github" />
 </a>
 
 <a href="https://linkedin.com/in/bishoy-sedra" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
 </a>
 
 </div>
 
-## My Stats
+---
 
-<div>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=BishoySedra&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=BishoySedra&theme=radical&hide_border=true" />
-</div>
+### 🛠️ **Languages and Tools:**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/fluency/48/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
+  <img src="https://www.svgrepo.com/show/373872/nestjs.svg" alt="NestJS" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" />
+</p>
 
-<br>
-
-<div>
-<img width="49.5%" align="top" src="https://github-profile-trophy.vercel.app/?username=BishoySedra&theme=radical&row=2&column=3&no-frame=true&no-bg=false&margin-w=5&margin-h=5" />
-<img width="49.5%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishoySedra&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=jupyter%20notebook" />  
- </div>
+---
 
 ## Random Dev Quote
 
