@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishoy Sedra</h1>
-<h3 align="center">An Egyptian Software Engineer interested in Backend Development</h3>
+<h3 align="center">Software Engineer interested in Backend Development</h3>
 
 - 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about **Node.js, Express.js, NestJS, MongoDB, PostgreSQL**
