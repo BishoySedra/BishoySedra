@@ -39,7 +39,6 @@
   <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" />
   <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" />
   <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" />
-  <img src="https://img.icons8.com/?size=100&id=38553" alt="Selenium" />
 </p>
 
 ---
