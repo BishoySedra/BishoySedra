@@ -37,6 +37,7 @@
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" />
   <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" />
   <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" />
 </p>
 
