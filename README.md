@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bishoy Sedra</h1>
 <h3 align="center">Software Engineer interested in Backend Development</h3>
 
-- 🌱 I’m currently learning **.Net**
+<!-- - 🌱 I’m currently learning **.Net** -->
 - 💬 Ask me about **Node.js, Express.js, NestJS, MongoDB, PostgreSQL**
 - 📫 How to reach me **bishoysedraa@gmail.com**
 - 📄 Go through my portfolio website: **[Link to the website](https://bishoysedra.github.io/Portfolio-Website)**
